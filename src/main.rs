@@ -10,7 +10,7 @@ fn main() {
     let dimes: i32 = read!();
     println!("Nickles: ");
     let nickles: i32 = read!();
-    println!("Pannies: ");
+    println!("Pennies: ");
     let pennies: i32 = read!();
 
     convert::print_conversion(quarters, dimes, nickles, pennies);
